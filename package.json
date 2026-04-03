@@ -1,6 +1,6 @@
 {
-    "name": "finalhours",
-    "displayName": "FinalHours",
+    "name": "final-hours",
+    "displayName": "Final Hours",
     "description": "A VSCode theme inspired by both Nord and Palenight",
     "version": "0.0.1",
     "publisher": "segmentfault",
