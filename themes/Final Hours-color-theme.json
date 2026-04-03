@@ -18,7 +18,6 @@
         "editor.selectionBackground": "#67769660",
         "editor.selectionHighlightBackground": "#ffffff10",
         "editorCursor.background": "#ffffffc9",
-        "editor.findMatchHighlightBackground": "#3143656c",
         "editor.wordHighlightStrongBackground": "#abb2bf26",
         "editorGroup.border": "#181A1F",
         "editorIndentGuide.background1": "#3B4048",
@@ -35,7 +34,6 @@
         "gitDecoration.untrackedResourceForeground": "#99C794",
         "gitDecoration.conflictingResourceForeground": "#E15A60",
         "list.highlightForeground": "#C5C5C5",
-        "peekViewEditor.matchHighlightBackground": "#29244b",
         "sideBarSectionHeader.background": "#282c34",
         "statusBar.foreground": "#9da5b4",
         "statusBarItem.hoverBackground": "#2c313a",
@@ -110,7 +108,13 @@
         "dropdown.background": "#1d2128",
         "dropdown.foreground": "#d4d4d4",
         "dropdown.border": "#323439",
-        "dropdown.listBackground": "#22262e"
+        "dropdown.listBackground": "#22262e",
+        "editor.findMatchBackground": "#ffcb6b66",
+        "editor.findMatchBorder": "#ffcb6b",
+        "editor.findMatchHighlightBackground": "#ffcb6b33",
+        "editor.findMatchHighlightBorder": "#ffcb6b22",
+        "searchEditor.findMatchBackground": "#ffcb6b44",
+        "peekViewEditor.matchHighlightBackground": "#ffcb6b44",
     },
     "tokenColors": [
         {
