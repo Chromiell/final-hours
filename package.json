@@ -5,6 +5,12 @@
     "version": "0.0.1",
     "publisher": "chromiell",
     "icon": "icon.png",
+    "keywords": [
+        "dark",
+        "palenight",
+        "minimal",
+        "midnight"
+    ],
     "engines": {
         "vscode": "^1.110.0"
     },
