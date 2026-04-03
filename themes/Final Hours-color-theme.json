@@ -114,7 +114,19 @@
         "editor.findMatchHighlightBackground": "#ffcb6b33",
         "editor.findMatchHighlightBorder": "#ffcb6b22",
         "searchEditor.findMatchBackground": "#ffcb6b44",
-        "peekViewEditor.matchHighlightBackground": "#ffcb6b44",
+        "peekView.border": "#82AAFFbb",
+        "peekViewTitle.background": "#2c323d",
+        "peekViewTitleLabel.foreground": "#ffffff",
+        "peekViewTitleDescription.foreground": "#9ca3af",
+        "peekViewEditor.background": "#252b35",
+        "peekViewEditorGutter.background": "#252b35",
+        "peekViewEditor.matchHighlightBackground": "#FFB62755",
+        "peekViewResult.background": "#2c323d",
+        "peekViewResult.fileForeground": "#ffffff",
+        "peekViewResult.lineForeground": "#9ca3af",
+        "peekViewResult.matchHighlightBackground": "#FFB62744",
+        "peekViewResult.selectionBackground": "#82AAFF44",
+        "peekViewResult.selectionForeground": "#ffffff"
     },
     "tokenColors": [
         {
