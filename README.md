@@ -41,5 +41,5 @@ While Final Hours is designed to be "plug-and-play," you can further tweak it in
 
 ### Via Command Line
 ```bash
-code --install-extension YOUR_PUBLISHER_ID.final-hours
+code --install-extension segmentfault.final-hours
 ```
