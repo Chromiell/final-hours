@@ -112,7 +112,7 @@
         "editor.findMatchBackground": "#ffcb6b66",
         "editor.findMatchBorder": "#ffcb6b",
         "editor.findMatchHighlightBackground": "#ffcb6b33",
-        "editor.findMatchHighlightBorder": "#ffcb6b22",
+        "editor.findMatchHighlightBorder": "#ffcb6b",
         "searchEditor.findMatchBackground": "#ffcb6b44",
         "peekView.border": "#82AAFFbb",
         "peekViewTitle.background": "#2c323d",
