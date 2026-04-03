@@ -4,6 +4,7 @@
     "description": "A VSCode theme inspired by both Nord and Palenight",
     "version": "0.0.1",
     "publisher": "chromiell",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.110.0"
     },

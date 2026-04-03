@@ -10,7 +10,6 @@
         "badge.background": "#282c34",
         "button.background": "#404754",
         "debugToolBar.background": "#21252b",
-        "dropdown.background": "#1d1f23",
         "diffEditor.insertedTextBackground": "#00809B33",
         "editorError.foreground": "#E15A60",
         "editorMarkerNavigation.background": "#21252b",
@@ -35,7 +34,6 @@
         "gitDecoration.deletedResourceForeground": "#E15A60",
         "gitDecoration.untrackedResourceForeground": "#99C794",
         "gitDecoration.conflictingResourceForeground": "#E15A60",
-        "input.background": "#1d1f23",
         "list.highlightForeground": "#C5C5C5",
         "peekViewEditor.matchHighlightBackground": "#29244b",
         "sideBarSectionHeader.background": "#282c34",
@@ -60,7 +58,6 @@
         "terminal.ansiWhite": "#D4D4D4",
         "terminal.ansiBrightWhite": "#D4D4D4",
         "titleBar.inactiveForeground": "#6B717D",
-        "dropdown.border": "#282c35",
         "editor.foreground": "#d4d4d4",
         "editorCursor.foreground": "#b6bcc4",
         "gitDecoration.ignoredResourceForeground": "#64727f",
@@ -105,7 +102,15 @@
         "tab.inactiveBackground": "#242529",
         "tab.inactiveForeground": "#9ca0a5",
         "tab.hoverBackground": "#313a49",
-        "debugIcon.breakpointForeground": "#6699cc"
+        "debugIcon.breakpointForeground": "#6699cc",
+        "input.background": "#1d2128",
+        "input.foreground": "#d4d4d4",
+        "input.border": "#323439",
+        "input.placeholderForeground": "#697098",
+        "dropdown.background": "#1d2128",
+        "dropdown.foreground": "#d4d4d4",
+        "dropdown.border": "#323439",
+        "dropdown.listBackground": "#22262e"
     },
     "tokenColors": [
         {
