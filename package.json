@@ -1,0 +1,29 @@
+{
+    "name": "finalhours",
+    "displayName": "FinalHours",
+    "description": "A VSCode theme inspired by both Nord and Palenight",
+    "version": "0.0.1",
+    "publisher": "chromiell",
+    "engines": {
+        "vscode": "^1.110.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Final Hours",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Final Hours-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "@vscode/vsce": "^3.7.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Chromiell/final-hours.git"
+    }
+}
