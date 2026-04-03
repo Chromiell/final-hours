@@ -1,4 +1,4 @@
-# Final Hours 🌑
+# 🌑 Final Hours
 
 A refined, high-contrast dark theme for Visual Studio Code designed for deep-focus coding sessions. **Final Hours** blends the misty aesthetics of Palenight with the structured clarity of Nord.
 
