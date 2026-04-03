@@ -1246,7 +1246,7 @@
             "name": "Punctuations in PHP function calls",
             "scope": "meta.function-call.php punctuation",
             "settings": {
-                "foreground": "#d5bfc6"
+                "foreground": "#bec5d4"
             }
         },
         {
