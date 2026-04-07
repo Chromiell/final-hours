@@ -97,6 +97,7 @@
         "editorGroupHeader.tabsBackground": "#1e2830",
         "editorGroupHeader.tabsBorder": "#323439",
         "tab.border": "#464950",
+        "tab.activeBorderTop": "#82aaff",
         "tab.inactiveBackground": "#242529",
         "tab.inactiveForeground": "#9ca0a5",
         "tab.hoverBackground": "#313a49",
