@@ -32,5 +32,8 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/Chromiell/final-hours.git"
+    },
+    "scripts": {
+        "package": "npx vsce package"
     }
 }
