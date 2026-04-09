@@ -4,3 +4,4 @@
 node_modules/**
 .gitignore
 vsc-extension-quickstart.md
+example.js
