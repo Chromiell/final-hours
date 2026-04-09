@@ -5,6 +5,10 @@ All notable changes to the "final-hours" extension will be documented in this fi
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.0]
+
+- Updated the titleBar color
+
 ## [v0.0.10]
 
 - Updated the background color hover windows (the ones you open by hovering over variable names during debugging)

@@ -75,7 +75,6 @@
         "sideBar.border": "#232830",
         "sideBarSectionHeader.foreground": "#c0c5cd",
         "tab.activeBackground": "#2b303b",
-        "titleBar.inactiveBackground": "#1c1f26",
         "widget.shadow": "#282c35",
         "editor.background": "#22262e",
         "editor.wordHighlightBackground": "#6e768149",
@@ -90,7 +89,6 @@
         "menu.selectionBackground": "#007acc",
         "menubar.selectionBackground": "#282d3d",
         "menubar.selectionForeground": "#cccccc",
-        "titleBar.activeBackground": "#212634",
         "titleBar.border": "#333333",
         "editorGroupHeader.tabsBackground": "#1e2830",
         "editorGroupHeader.tabsBorder": "#323439",
@@ -127,7 +125,9 @@
         "peekViewResult.selectionBackground": "#82AAFF44",
         "peekViewResult.selectionForeground": "#ffffff",
         "editorHoverWidget.background": "#2c323d",
-        "editorHoverWidget.border": "#82AAFF66"
+        "editorHoverWidget.border": "#82AAFF66",
+        "titleBar.activeBackground": "#272a32",
+        "titleBar.inactiveBackground": "#272a32",
     },
     "tokenColors": [
         {
