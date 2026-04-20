@@ -82,7 +82,7 @@
         "editorStickyScroll.background": "#22262e",
         "editorStickyScrollGutter.background": "#272a32",
         "sideBar.foreground": "default",
-        "statusBar.background": "#272a32",
+        "statusBar.background": "#2b2e37",
         "statusBar.debuggingBackground": "#4674be",
         "statusBar.debuggingBorder": "#4674be",
         "menu.background": "#2f3441",
