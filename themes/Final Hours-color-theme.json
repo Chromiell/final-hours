@@ -3,7 +3,7 @@
     "author": "Chromiell",
     "type": "dark",
     "colors": {
-        "activityBar.background": "#2F333D",
+        "activityBar.background": "#2b2e37",
         "activityBar.foreground": "#D7DAE0",
         "activityBarBadge.background": "#6699CC",
         "activityBarBadge.foreground": "#F8FAFD",
@@ -126,8 +126,8 @@
         "peekViewResult.selectionForeground": "#ffffff",
         "editorHoverWidget.background": "#2c323d",
         "editorHoverWidget.border": "#82AAFF66",
-        "titleBar.activeBackground": "#272a32",
-        "titleBar.inactiveBackground": "#272a32",
+        "titleBar.activeBackground": "#2b2e37",
+        "titleBar.inactiveBackground": "#2b2e37",
     },
     "tokenColors": [
         {

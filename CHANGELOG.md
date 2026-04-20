@@ -5,6 +5,10 @@ All notable changes to the "final-hours" extension will be documented in this fi
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.4]
+
+- Slightly darkened the activityBar color and slightly lightened the titleBar color to make them the same
+
 ## [v1.0.3]
 
 - Updated main editor Background color to make it more seamless with the sidebar
